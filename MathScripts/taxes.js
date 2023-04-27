@@ -7,7 +7,7 @@ var taxPercentage;
 var taxWithheld;
 
 payAmount = 2173; //subject to change
-taxPercentage = 0.12;
+taxPercentage = 0.23;
 taxWithheld = payAmount * taxPercentage;
 
 
